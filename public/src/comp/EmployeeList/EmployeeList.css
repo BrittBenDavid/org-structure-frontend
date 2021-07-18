@@ -1,0 +1,28 @@
+
+
+
+.employeeList-container {
+    text-align: center;
+    align-items: center;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+table {
+    min-width: 650;
+}
+
+
+.table_head {
+    width: 50px;
+    font-weight: bold;
+}
+
+.tableCell {
+    font-size: 30px;
+}
+
+
